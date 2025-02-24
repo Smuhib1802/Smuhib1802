@@ -2,8 +2,8 @@
 - 👀 I’m interested in static websites development
 - 🌱 I’m currently learning modern web development
 - 💞️ I’m looking to collaborate with a community
-- 📫 How to reach me ... @muhibali1802@gmail.com
-- 
+- 📫 How to reach me ... muhibali1802@gmail.com
+  
 
 
 <!---
